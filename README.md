@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba - PrepCoruse Henry.
+Este proyecto es una prueba de como crear un repositorio.
+HOLA MUNDO
